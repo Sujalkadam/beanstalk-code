@@ -4,3 +4,4 @@ PyMySQL
 cryptography
 gunicorn
 werkzeug
+itsdangerous
